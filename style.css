@@ -269,7 +269,7 @@ nav a {
 }
 .hero-container {
   background-position: 50%;
-  background-image: url(../assets/v7-homepage1.jpg);
+  background-image: url(assets/v7-homepage1.jpg);
   height: 50vh;
   background-repeat: no-repeat;
   background-size: cover;
